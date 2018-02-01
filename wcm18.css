@@ -178,9 +178,14 @@ a:hover, .comment-edit-link:hover, .edit-link > a:hover {
     border-top: 1px solid #d9d9d9;
     box-shadow: 2px 2px 2px rgba(66,66,66,.6);
     margin-top: 48px;
-    padding: 1%;
+    /*padding: 1%;*/
     position: relative;
     z-index: 1;
+}
+
+.page-navigation-container ul ul {
+    top: 3.06em !important;
+    border-top: 1px solid rgb(152, 152, 152);
 }
 
 @media screen and (max-width: 992px) {
@@ -470,6 +475,10 @@ blockquote > p {
 	.jetpack_subscription_widget #subscribe-email {
 		width: 25rem;
 	}
+
+    .page-navigation-container #primary-menu > li > a {
+        padding: 12px;
+    }
 }
 
 /*Jetpack end*/

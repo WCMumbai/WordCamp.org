@@ -52,7 +52,8 @@ a:hover, .comment-edit-link:hover, .edit-link > a:hover {
     position: absolute;
     top: -180px;
     transform: skewY(10deg);
-    width: 100vw;
+    /*width: 100vw;*/
+    width: 100%;
     z-index: 3;
 }
 

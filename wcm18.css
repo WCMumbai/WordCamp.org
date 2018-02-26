@@ -1031,3 +1031,7 @@ h2.widget-title {
     font-size: 35px;
     text-align: center;
 }
+
+.wcorg-speaker-description > .avatar {
+display:none;
+}

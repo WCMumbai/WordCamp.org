@@ -1033,8 +1033,14 @@ h2.widget-title {
 }
 
 .wcorg-speaker-description > .avatar {
-display:none;
+	display:none;
 }
 .speaker-avatar{
-display:none;
+	display:none;
+}
+
+.wcorg-speakers>div {
+    padding-bottom: 10px;
+    border-bottom: 2px solid #000;
+    padding-top: 10px;
 }

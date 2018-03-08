@@ -1044,3 +1044,7 @@ h2.widget-title {
     border-bottom: 2px solid #000;
     padding-top: 10px;
 }
+/*wisdm lab logo adjust*/
+div#wcorg-sponsor-282>div>a>img {
+    height: 122px;
+}

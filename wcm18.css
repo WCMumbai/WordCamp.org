@@ -454,6 +454,9 @@ blockquote > p {
 	color: #fff;
 	text-transform: uppercase;
 	background-color: #c74419;
+	    padding: 8px;
+    font-weight: 700;
+    font-size: 14px
 }
 
 .jetpack_subscription_widget input[type=submit]:active, .jetpack_subscription_widget input[type=submit]:focus, .jetpack_subscription_widget input[type=submit]:hover {

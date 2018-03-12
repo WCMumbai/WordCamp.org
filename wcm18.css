@@ -1044,7 +1044,137 @@ h2.widget-title {
     border-bottom: 2px solid #000;
     padding-top: 10px;
 }
-/*wisdm lab logo adjust*/
-div#wcorg-sponsor-282>div>a>img {
-    height: 122px;
+.wcorg-sponsors > div {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	-ms-flex-pack: center;
+	justify-content: center;
+}
+.sponsor-logo > div {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	-ms-flex-pack: center;
+	justify-content: center;
+}
+
+.wcorg-sponsors > div h2 {
+	width: 100%;
+	margin-top: 1.5rem;
+	margin-bottom: 1.5rem;
+	padding-top: 1.5rem;
+	border-top: 1px solid #e7e7e7;
+	font-size: 1em;
+	line-height: 1.5625em;
+	text-align: center;
+	text-transform: uppercase;
+	color: #e5410b;
+	position: relative;
+	z-index: 100;
+}
+
+@media (min-width: 48em) {
+	.wcorg-sponsors > div h2 {
+		padding-top: 0;
+		border-top: none;
+	}
+	
+	.wcorg-sponsors > div h2:after, .wcorg-sponsors > div h2:before {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		width: 100%;
+		transform: translateX(-50%);
+		border-top: 1px solid #e7e7e7;
+		content: "";
+		z-index: -1;
+	}
+	
+	.wcorg-sponsors > div h2:after {
+		border-color: #fff;
+		width: 16em;
+		z-index: -1;
+	}
+}
+
+.wcorg-sponsor {
+	margin-bottom: 0;
+	padding: .5rem;
+	max-width: 50rem;
+	margin: 0 auto;
+}
+.sponsor-logo{
+	margin-bottom: 0;
+	padding: .5rem;
+	max-width: 50rem;
+	margin: 0 auto;
+}
+
+.wcorg-sponsor img {
+	display: block;
+	margin: 0 auto;
+	max-height: none;
+}
+.sponsor-logo img{
+	display: block;
+	margin: 0 auto;
+	max-height: none;
+}
+
+.wcorg-sponsor h3 {
+	text-align: center;
+}
+.sponsor-logo h3{
+	text-align: center;
+}
+
+.wcorg-sponsor .wcorg-sponsor-description, .wcorg-sponsor p {
+	color: rgba(0,0,0,.6);
+}
+.sponsor-logo .sponsor-logo-description, .sponsor-logo p {
+	color: rgba(0,0,0,.6);
+}
+
+.wcorg-sponsor p {
+	margin-bottom: .5rem;
+}
+.sponsor-logo p {
+	margin-bottom: .5rem;
+}
+
+.wcorg-sponsor a {
+	background-color: #fff;
+}
+
+.sponsor-logo a{
+	background-color: #fff;
+}
+
+.wcorg-sponsor a img {
+	transition: all .15s ease;
+}
+
+.sponsor-logo a img {
+	transition: all .15s ease;
+}
+
+.wcorg-sponsor a:active img, .wcorg-sponsor a:focus img, .wcorg-sponsor a:hover img {
+	filter: grayscale(100%);
+	opacity: .75;
+}
+.sponsor-logo a:active img, .sponsor-logo a:focus img, .sponsor-logo a:hover img{
+	filter: grayscale(100%);
+	opacity: .75;
+}
+
+@media (min-width: 48em) {
+	.wcorg-sponsor {
+		padding: 1rem;
+	}
+	.sponsor-logo {
+		padding:1em;
+	}
 }

@@ -1181,3 +1181,12 @@ h2.widget-title {
 		padding:1em;
 	}
 }
+.gold h4.sponsor-level-title {
+    background-color: #cfb53b;
+}
+.silver h4.sponsor-level-title {
+    background-color: #c0c0c0;
+}
+.bronze h4.sponsor-level-title {
+    background-color: #8c7853;
+}

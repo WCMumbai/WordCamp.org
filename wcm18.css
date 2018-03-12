@@ -100,7 +100,7 @@ a:hover, .comment-edit-link:hover, .edit-link > a:hover {
 }
 
 .site-description::before {
-    content: 'VMCC, IIT-B, Powai';
+    content: 'VMCC, IIT Bombay, Powai, Mumbai;
     display: block;
     font-size: 1.53rem;
     font-weight: 700;

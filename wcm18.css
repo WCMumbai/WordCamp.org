@@ -1191,7 +1191,7 @@ h2.widget-title {
     background-color: #8c7853;
 }
 .wcb_widget_sponsors .sponsor-logo {
-    display: inline-block;
+    display: inline-block !important;
     padding-bottom: 10px;
     padding-left: 10%;
     max-width: 30%;

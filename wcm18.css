@@ -1190,3 +1190,8 @@ h2.widget-title {
 .bronze h4.sponsor-level-title {
     background-color: #8c7853;
 }
+.wcb_widget_sponsors .sponsor-logo {
+    display: inline-block;
+    padding-bottom: 10px;
+    padding-left: 10%;
+}

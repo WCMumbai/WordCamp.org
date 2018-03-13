@@ -1194,6 +1194,7 @@ h2.widget-title {
     display: inline-block;
     padding-bottom: 10px;
     padding-left: 10%;
+    max-width: 30%;
 }
 .venue-sponsor h4.sponsor-level-title {
     background-color: #ff9000;
@@ -1204,3 +1205,5 @@ h2.widget-title {
 .friends h4.sponsor-level-title {
     background-color: burlywood;
 }
+
+   

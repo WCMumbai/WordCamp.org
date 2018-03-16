@@ -1270,7 +1270,7 @@ h2.widget-title {
 }
 
 .wcpt-schedule .global-session.afternoon-break,.wcpt-schedule .global-session.break,.wcpt-schedule .global-session.lunch,.wcpt-schedule .global-session.morning-break,.wcpt-schedule .global-session.registration {
-	/*background-image: url('#');*/
+	background-image: url('https://2018.mumbai.wordcamp.org/files/2018/03/background-pattern-01.png');
 	background-color: #ff9000 !important;
 	background-size: 120px;
 	background-position: 50% 0;

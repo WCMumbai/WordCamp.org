@@ -1208,7 +1208,7 @@ h2.widget-title {
 
 /*SCHEDULE*/
 .wcpt-schedule {
-	border: .25rem solid #c96;
+	border: .25rem solid #e5410b;
 	margin-bottom: 1.5rem;
 	background-color: #fff;
 }
@@ -1294,7 +1294,7 @@ h2.widget-title {
 	.wcpt-schedule tr {
 		margin-bottom: 1rem;
 		display: block;
-		border: .25rem solid #c96;
+		border: .25rem solid #e5410b;
 	}
 	
 	.wcpt-schedule .wcb-track-track-1:before,.wcpt-schedule .wcb-track-track-2:before,.wcpt-schedule .wcb-track-track-3:before {

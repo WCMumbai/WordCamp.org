@@ -1344,3 +1344,14 @@ h2.widget-title {
 		padding-left: 0;
 	}
 }
+.wcpt-schedule .wcpt-time{
+padding:20px;
+}
+.wcpt-schedule .wcpt-session-title{
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.wcpt-schedule .wcpt-session-speakers a{
+color: rgba(29,36,42,.75);
+    padding-left: 10px;
+}

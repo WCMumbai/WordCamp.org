@@ -2804,12 +2804,14 @@ body:not(.twentyseventeen-front-page) .entry-header {
   margin-bottom: 1em; }
   .social-navigation ul {
     list-style: none;
+    text-align: center;
     margin-bottom: 0;
-    margin-left: 0; }
+    margin-left: 0;
+    padding: 0px; }
   .social-navigation li {
     display: inline; }
   .social-navigation a {
-    background-color: #767676;
+    background-color: transparent;
     border-radius: 40px;
     color: #fff;
     display: inline-block;
@@ -2824,7 +2826,7 @@ body:not(.twentyseventeen-front-page) .entry-header {
     top: 12px;
     width: 16px;
     vertical-align: top;
-    border: 2px solid #fff; }
+    border: none; }
 
 /* Site info */
 .site-info {
@@ -3993,9 +3995,10 @@ Sponsors
       float: none; }
   .social-navigation {
     clear: left;
-    float: left;
+    float: none;
     margin-bottom: 0;
-    width: 36%; }
+    width: 100%;
+    padding-top: 25px; }
   .site-info {
     float: left;
     padding: 0.7em 0 0;

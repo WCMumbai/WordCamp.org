@@ -2792,7 +2792,8 @@ body:not(.twentyseventeen-front-page) .entry-header {
 13.6 Footer
 --------------------------------------------------------------*/
 .site-footer {
-  background-color: #009cdc; }
+  background-color: #1063da;
+}
   .site-footer .wrap {
     padding: 0;
     max-width: 100%; }

@@ -2578,7 +2578,7 @@ body:not(.twentyseventeen-front-page) .entry-header {
   width: 100% !important;
   max-width: 100% !important; }
 
-/*bilety*/
+/*bilety*/ /*Registration - Ticket form*/
 .tix-js form input[type="submit"] {
   background: #c02942;
   text-transform: uppercase;
@@ -2658,6 +2658,16 @@ body:not(.twentyseventeen-front-page) .entry-header {
 
 .tix-js .tix-right br {
   display: none; }
+
+.tix-has-dynamic-receipts td {
+    padding: 1em; }
+
+.tix-has-dynamic-receipts br {
+    display: none; }
+
+.tix-has-dynamic-receipts label {
+    display: inline-block;
+    margin-right: 1em; }
 
 /*Kalendarz wordupów*/
 .page-slug-kalendarz-wordupow .entry-header {

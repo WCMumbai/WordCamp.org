@@ -3991,7 +3991,7 @@ Sponsors
     padding: 0.7em 0 0;
     width: 100%; }
   .social-navigation + .site-info {
-    margin-left: 6%; }
+    margin-left: 0; }
   .site-info .sep {
     margin: 0 0.5em;
     display: inline;

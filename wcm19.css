@@ -4457,5 +4457,7 @@ Sponsors
 .btn-photos .wp-block-button__link, .wp-block-button.is-style-squared .wp-block-button__link { margin-top: 0px; background: #0073AA;}
 .btn-photos .wp-block-button__link:hover, .wp-block-button.is-style-squared .wp-block-button__link:hover { background: #00A0D2; }
 
-/* For Sponsors Page */
+/* Sponsors Form */
 .page-id-301 .wp-block-table.aligncenter {width: 100%!important}
+/* Sponsors Main Page */
+.wcorg-sponsors img { max-height: 100%; margin-bottom: 20px; }

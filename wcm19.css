@@ -4451,3 +4451,9 @@ Sponsors
     width: 34%; }
   .site-footer {
     padding: 0; } }
+
+
+.btn-photos { text-align: center; }
+.btn-photos .wp-block-button__link { margin-top: 0px; background: #234792; }
+.btn-photos .wp-block-button__link:hover { background: #00A0D2; }
+

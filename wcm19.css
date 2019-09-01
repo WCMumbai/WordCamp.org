@@ -1803,7 +1803,8 @@ body {
     display: block; }
 
 .container-narrow {
-  width: 50rem;
+  /*width: 50rem;*/
+  width: 80rem;
   max-width: 100%; }
 
 @media screen and (min-width: 48em) {

@@ -1804,7 +1804,7 @@ body {
 
 .container-narrow {
   /*width: 50rem;*/
-  width: 80rem;
+  width: 70rem;
   max-width: 100%; }
 
 @media screen and (min-width: 48em) {

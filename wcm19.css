@@ -4460,11 +4460,11 @@ Sponsors
 /* Sponsors Form */
 .page-id-301 .wp-block-table.aligncenter {width: 100%!important}
 /* Sponsors Main Page */
-.wcorg-sponsors img { max-height: 100%; margin-bottom: 20px; }
+.wcorg-sponsors img {max-height: 100%; margin-bottom: 20px;}
 
 .post .entry-content h2 {font-size: 3rem;}
 .post .entry-content h4 {padding-top: 0px; margin-bottom: 50px;}
 .margin-top-zero {margin-top:0px!important}
 
-.wp-block-quote.is-style-large{ padding: 5em 1em; border-top: 1px solid #efefef; border-left: 0px!important; border-bottom: 1px solid #efefef; }
-
+.wp-block-quote.is-style-large {padding: 2em 1em; border-top: 1px solid #eee; border-left: 0 !important; margin: 0px;}
+.wp-block-quote.is-style-large p {margin-bottom:0px}

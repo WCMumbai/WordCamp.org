@@ -4461,3 +4461,7 @@ Sponsors
 .page-id-301 .wp-block-table.aligncenter {width: 100%!important}
 /* Sponsors Main Page */
 .wcorg-sponsors img { max-height: 100%; margin-bottom: 20px; }
+
+.post .entry-content h2 {font-size: 3rem;}
+.post .entry-content h4 {padding-top: 0px; margin-bottom: 50px;}
+

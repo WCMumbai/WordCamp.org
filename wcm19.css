@@ -2848,7 +2848,7 @@ body:not(.twentyseventeen-front-page) .entry-header {
 
 .footer-widget-1 {
   color: #fff;
-  background: #234792 url("https://2018.poznan.wordcamp.org/files/2018/03/newsletter-bg.png") no-repeat left bottom;
+  background: transparent;
   padding-top: 30px;
   text-align: center; }
   .footer-widget-1 h2.widget-title {
@@ -2880,7 +2880,7 @@ body:not(.twentyseventeen-front-page) .entry-header {
     margin: 0;
     position: relative;
     overflow: hidden;
-    background: #009cdc; }
+    background: #234792; }
     .jetpack_subscription_widget #subscribe-submit:after {
       display: block;
       content: '';
@@ -2918,6 +2918,10 @@ body:not(.twentyseventeen-front-page) .entry-header {
         background: transparent; }
   .jetpack_subscription_widget #subscribe-text p {
     font-size: 1rem; }
+  
+  p#subscribe-submit input + button {
+      padding: 1.07em 2em;
+      background-color: transparent; }
 
 .footer-widget-2 {
   padding-top: 30px;

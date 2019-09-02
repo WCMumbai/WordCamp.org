@@ -2624,9 +2624,8 @@ body:not(.twentyseventeen-front-page) .entry-header {
 .tix-js.tix-has-dynamic-receipts h2 {
   margin: 0rem; }
 
-.tix-js td.tix-column-remaining {
-  text-align: center;
-  color: #c02942; }
+.tix-js .tix-column-remaining {
+  display: none; }
 
 .tix-js .tix_tickets_table.tix-attendee-form th {
   font-size: 1.625rem;

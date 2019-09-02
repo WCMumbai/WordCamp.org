@@ -3640,6 +3640,8 @@ Sponsors
   letter-spacing: 5px; }
   .entry-content .wcorg-sponsors h2:first-child {
     margin-top: 0; }
+.entry-content .wcorg-sponsors .wcorg-sponsor {
+  margin-top: 3em; }
 
 /*--------------------------------------------------------------
 19.0 Media Queries

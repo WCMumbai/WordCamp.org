@@ -840,7 +840,8 @@ Custom
 CSS Taken from Addiotional CSS textarea in Customizer
 --------------------------------------------------------------*/
 .custom-header-media .site-branding {
-  background-image: url("https://2018.poznan.wordcamp.org/files/2018/03/header-bg.png") !important; }
+  /* background-image: url("https://2018.poznan.wordcamp.org/files/2018/03/header-bg.png") !important; } */
+  background-image: url("https://2019.mumbai.wordcamp.org/files/2019/09/header.jpg") !important; }
 
 h3 {
   text-transform: none;

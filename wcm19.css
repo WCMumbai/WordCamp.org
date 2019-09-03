@@ -1626,7 +1626,7 @@ a:hover .nav-title {
     color: #234792; }
   .navigation-top .menu > :last-child a {
     color: #fff;
-    background-color: #c02942;
+    background-color: #d65027;
     text-align: center;
     margin-top: 1.5rem; }
     @media (min-width: 62rem) {
@@ -1637,7 +1637,7 @@ a:hover .nav-title {
         padding-right: 1.5rem;
         text-align: inherit; } }
     .navigation-top .menu > :last-child a:hover {
-      background-color: #962034; }
+      background-color: #F46D24; }
 
 .main-navigation {
   clear: both;

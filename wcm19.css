@@ -3646,6 +3646,15 @@ Sponsors
 .entry-content .wcorg-sponsors .wcorg-sponsor {
   margin-top: 3em; }
 
+.gold-sponsors-title {
+    color: #DAA520; }
+.silver-sponsors-title {
+    color: #aaa9ad; }
+.bronze-sponsors-title {
+    color: #b08d57; }
+.friends-sponsors-title {
+    color: #00A0D2; }
+
 /*--------------------------------------------------------------
 19.0 Media Queries
 --------------------------------------------------------------*/

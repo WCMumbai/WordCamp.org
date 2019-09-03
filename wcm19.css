@@ -959,7 +959,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
   font-weight: 500;
-  color: #0f61d6; }
+  color: #0073AA; }
 
 h1:first-child,
 h2:first-child,
@@ -1613,7 +1613,7 @@ a:hover .nav-title {
   position: relative;
   font-family: Oswald, sans-serif; }
   .navigation-top a {
-    color: #234792;
+    color: #0073AA;
     font-weight: 600;
     -webkit-transition: color 0.2s, background-color 0.3s;
     -o-transition: color 0.2s, background-color 0.3s;
@@ -1623,7 +1623,7 @@ a:hover .nav-title {
   .navigation-top .current_page_item > a,
   .navigation-top .current-menu-parent > a,
   .navigation-top .current_page_parent > a {
-    color: #234792; }
+    color: #0073AA; }
   .navigation-top .menu > :last-child a {
     color: #fff;
     background-color: #d65027;
@@ -2105,7 +2105,7 @@ body:not(.has-header-image):not(.has-header-video) .custom-header-media {
     width: 100%;
     height: 100%;
     text-align: center;
-    color: #234792;
+    color: #0073AA;
     overflow: hidden;
     -webkit-transition: all .2s ease-in-out;
     -o-transition: all .2s ease-in-out;
@@ -2113,7 +2113,7 @@ body:not(.has-header-image):not(.has-header-video) .custom-header-media {
     font-size: 1.125rem;
     font-weight: 500; }
     .column-frontpage-main-info a:hover {
-      color: #009cdc; }
+      color: #00A0D2; }
     .column-frontpage-main-info a small {
       position: absolute;
       top: 0.3125rem;
@@ -2794,7 +2794,7 @@ body:not(.twentyseventeen-front-page) .entry-header {
 13.6 Footer
 --------------------------------------------------------------*/
 .site-footer {
-  background-color: #1063da;
+  background-color: #00A0D2;
 }
   .site-footer .wrap {
     padding: 0;
@@ -2880,7 +2880,7 @@ body:not(.twentyseventeen-front-page) .entry-header {
     margin: 0;
     position: relative;
     overflow: hidden;
-    background: #234792; }
+    background: #0073AA; }
     .jetpack_subscription_widget #subscribe-submit:after {
       display: block;
       content: '';

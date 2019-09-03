@@ -4294,6 +4294,9 @@ Sponsors
     margin-bottom: 35px; }
   .home .site-content-contain .site-main h3 {
     font-size: 1.8em; }
+  .home .site-content-contain .site-main h4 {
+    font-size: 1.3em;
+    text-transform: none; }
   .home .site-content-contain .site-main article {
     overflow: visible; }
     .home .site-content-contain .site-main article:first-child .wrap {

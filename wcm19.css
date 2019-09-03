@@ -4297,6 +4297,8 @@ Sponsors
   .home .site-content-contain .site-main h4 {
     font-size: 1.3em;
     text-transform: none; }
+  .home .site-content-contain .site-main h4 a:hover {
+    color: #0073AA; }
   .home .site-content-contain .site-main article {
     overflow: visible; }
     .home .site-content-contain .site-main article:first-child .wrap {

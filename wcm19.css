@@ -4479,17 +4479,15 @@ Sponsors
 .btn-photos, .wp-block-button.is-style-squared { text-align: center; }
 .btn-photos .wp-block-button__link, .wp-block-button.is-style-squared .wp-block-button__link { margin-top: 0px; background: #0073AA;}
 .btn-photos .wp-block-button__link:hover, .wp-block-button.is-style-squared .wp-block-button__link:hover { background: #00A0D2; }
-
 /* Sponsors Form */
 .page-id-301 .wp-block-table.aligncenter {width: 100%!important}
 /* Sponsors Main Page */
 .wcorg-sponsors img {max-height: 100%; margin-bottom: 20px;}
-
 .post .entry-content h2 {font-size: 3rem;}
 .post .entry-content h4 {padding-top: 0px; margin-bottom: 50px;}
 .margin-top-zero {margin-top:0px!important}
-
 .wp-block-quote.is-style-large {padding: 2em 1em; border-top: 1px solid #eee; border-left: 0 !important; margin: 0px;}
 .wp-block-quote.is-style-large p {margin-bottom:0px; text-align: center; font-size: 20px;}
-
 .mrg-btn-zero {margin-bottom:0px;}
+.announce-box{ text-align: center; border-top: 1px solid #efefef; border-bottom: 1px solid #efefef; padding: 30px 0px;}
+.announce-box p{margin-bottom:0px;}

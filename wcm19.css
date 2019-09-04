@@ -839,10 +839,6 @@ Custom
 
 CSS Taken from Addiotional CSS textarea in Customizer
 --------------------------------------------------------------*/
-.custom-header-media .site-branding {
-  /* background-image: url("https://2018.poznan.wordcamp.org/files/2018/03/header-bg.png") !important; } */
-  background-image: url("https://2019.mumbai.wordcamp.org/files/2019/09/WCMumbai2019-Cover_2.jpg") !important; }
-
 h3 {
   text-transform: none;
   padding-top: 0; }
@@ -1825,9 +1821,6 @@ body {
 
 /* Site branding */
 .site-branding {
-  /* background: url("https://2018.poznan.wordcamp.org/files/2018/03/header-bg.png") no-repeat center bottom; */
-  background: url("https://2019.mumbai.wordcamp.org/files/2019/09/WCMumbai2019-Cover_2.jpg") no-repeat center bottom;
-  background-size: cover;
   z-index: 3;
   height: 13.75rem;
   margin: 0;

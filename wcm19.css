@@ -1881,8 +1881,6 @@ body:not(.title-tagline-hidden) .site-branding-text {
   right: 0;
   top: 0;
   width: 100%; }
-  .custom-header-media img {
-    display: none !important; }
 
 .has-header-image .custom-header-media img {
   position: fixed;
@@ -1975,8 +1973,8 @@ body:not(.title-tagline-hidden) .site-branding-text {
     width: 100%; } }
 
 /* Hides div in Customizer preview when header images or videos change. */
-body:not(.has-header-image):not(.has-header-video) .custom-header-media {
-  display: none; }
+/*body:not(.has-header-image):not(.has-header-video) .custom-header-media {
+  display: none; }*/
 
 /*--------------------------------------------------------------
 13.2 Front Page

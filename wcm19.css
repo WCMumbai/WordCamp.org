@@ -1256,7 +1256,7 @@ button {
     fill: #fff; }
 
 input[type="button"], input[type="submit"] {
-  background-color: #ffc740;
+  background-color: #d65027;
   border: 0;
   border-radius: 0px;
   -webkit-box-shadow: none;
@@ -1295,7 +1295,7 @@ input[type="button"]:hover, input[type="button"]:focus {
   background: #767676; }
 
 input[type="submit"]:hover, input[type="submit"]:focus {
-  background: #767676; }
+  background: #F46D24; }
 
 button.secondary:hover, button.secondary:focus {
   background: #bbb; }
@@ -2584,11 +2584,11 @@ body:not(.twentyseventeen-front-page) .entry-header {
 
 /*bilety*/ /*Registration - Ticket form*/
 .tix-js form input[type="submit"] {
-  background: #c02942;
+  background: #d65027;
   text-transform: uppercase;
   font-weight: normal; }
   .tix-js form input[type="submit"]:hover {
-    background: #d12d48; }
+    background: #F46D24; }
 
 .tix-js form #tix-coupon-container #tix-coupon-input {
   width: 40%;

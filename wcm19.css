@@ -1708,10 +1708,10 @@ a:hover .nav-title {
   background: #009cdc;
   width: 100%; }
   .menu-toggle:hover {
-    background: #234792;
+    background: #transparent;
     color: #fff; }
   .menu-toggle:focus {
-    background: #234792;
+    background: transparent;
     color: #fff; }
   .menu-toggle .icon {
     margin-right: 0.5em;

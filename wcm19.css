@@ -1861,7 +1861,8 @@ body.has-header-image .site-description, body.has-header-video .site-description
   margin: 0 0 10px 0;
   max-width: 100%;
   padding: 3px 10px;
-  color: #fff; }
+  color: #fff;
+  text-shadow: 2px 2px 10px #0073AA; }
 
 body:not(.title-tagline-hidden) .site-branding-text {
   display: block;

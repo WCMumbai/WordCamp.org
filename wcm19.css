@@ -2816,6 +2816,7 @@ body:not(.twentyseventeen-front-page) .entry-header {
     margin: 0 1em 0.5em 0;
     text-align: center;
     width: 40px;
+    font-size: 1.4em
     line-height: 40px; }
     .social-navigation a:hover, .social-navigation a:focus {
       background-color: #fff;
@@ -3988,8 +3989,7 @@ Sponsors
     line-height: 1.6; }
   /* Widgets */
   h2.widget-title {
-    font-size: 11px;
-    font-size: 0.6875rem;
+    font-size: 1.5em;
     margin-bottom: 2em; }
   /* Footer */
   .site-footer {

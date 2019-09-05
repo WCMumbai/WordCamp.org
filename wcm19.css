@@ -3044,8 +3044,7 @@ body:not(.twentyseventeen-front-page) .entry-header {
 
 h2.widget-title {
   color: #222;
-  font-size: 13px;
-  font-size: 0.8125rem;
+  font-size: 1.5em;
   margin-bottom: 1.5em;
   text-transform: uppercase; }
 

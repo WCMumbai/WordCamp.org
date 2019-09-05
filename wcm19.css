@@ -2822,13 +2822,13 @@ body:not(.twentyseventeen-front-page) .entry-header {
     vertical-align: top;
     border: none; }
 
-  .social-navigation .wcm19-social li {
+  .social-navigation li.wcm19-social {
     font-family: FontAwesome;
     content: ""; }
-  .social-navigation .slack li {
+  .social-navigation li.slack {
     content: "\f198";
     font-size: 16px; }
-  .social-navigation .meetup li {
+  .social-navigation li.meetup {
     content: "\f2e0";
     font-size: 16px; }
 

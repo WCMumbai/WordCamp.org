@@ -2822,6 +2822,16 @@ body:not(.twentyseventeen-front-page) .entry-header {
     vertical-align: top;
     border: none; }
 
+  .social-navigation .wcm19-social li {
+    font-family: FontAwesome;
+    content: ""; }
+  .social-navigation .slack li {
+    content: "\f198";
+    font-size: 16px; }
+  .social-navigation .meetup li {
+    content: "\f2e0";
+    font-size: 16px; }
+
 /* Site info */
 .site-info {
   font-size: 14px;

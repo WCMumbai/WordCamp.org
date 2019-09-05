@@ -1708,7 +1708,7 @@ a:hover .nav-title {
   background: #009cdc;
   width: 100%; }
   .menu-toggle:hover {
-    background: #transparent;
+    background: transparent;
     color: #fff; }
   .menu-toggle:focus {
     background: transparent;

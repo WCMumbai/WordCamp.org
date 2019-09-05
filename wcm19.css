@@ -1582,7 +1582,10 @@ a:hover .nav-title {
 .entry-content a img,
 .widget a img {
   -webkit-box-shadow: 0 0 0 8px #fff;
-  box-shadow: 0 0 0 8px #fff; }
+  box-shadow: 0 0 0 8px #fff;
+  vertical-align: middle; }
+.wordcamp-image__featured-image-container.align-center {
+    line-height: 5em; }
 
 .post-navigation a:focus .icon, .post-navigation a:hover .icon {
   color: #222; }
@@ -2812,25 +2815,17 @@ body:not(.twentyseventeen-front-page) .entry-header {
     height: 40px;
     margin: 0 1em 0.5em 0;
     text-align: center;
-    width: 40px; }
+    width: 40px;
+    line-height: 40px; }
     .social-navigation a:hover, .social-navigation a:focus {
-      background-color: #333; }
+      background-color: #333;
+      color: #fff; }
   .social-navigation .icon {
     height: 16px;
     top: 12px;
     width: 16px;
     vertical-align: top;
     border: none; }
-
-  .social-navigation li.wcm19-social {
-    font-family: FontAwesome;
-    content: ""; }
-  .social-navigation li.slack {
-    content: "\f198";
-    font-size: 16px; }
-  .social-navigation li.meetup {
-    content: "\f2e0";
-    font-size: 16px; }
 
 /* Site info */
 .site-info {

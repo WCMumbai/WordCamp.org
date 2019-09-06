@@ -2338,7 +2338,7 @@ a.btn-red {
 .blog .entry-content {
   border-bottom: 1px solid #eee; }
 
-.blog.wp-block-image {
+.blog .wp-block-image {
   display: none; }
 
 body:not(.twentyseventeen-front-page) .entry-header {

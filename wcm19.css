@@ -4669,3 +4669,11 @@ Sponsors
   margin-bottom: 1em;
 }
 /*Sponsor Table*/
+
+.margin-bottom-zero { 
+	margin-bottom: 0 !important; 
+}
+.black-headline { 
+	color: #000; 
+}
+

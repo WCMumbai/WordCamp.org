@@ -1251,7 +1251,7 @@ button {
     fill: #fff; }
 
 input[type="button"], input[type="submit"] {
-  background-color: #d65027;
+  background-color: #F56E28;
   border: 0;
   border-radius: 0px;
   -webkit-box-shadow: none;
@@ -1624,7 +1624,7 @@ a:hover .nav-title {
     color: #0073AA; }
   .navigation-top .menu > :last-child a {
     color: #fff;
-    background-color: #d65027;
+    background-color: #F56E28;
     text-align: center;
     margin-top: 1.5rem; }
     @media (min-width: 62rem) {

@@ -4673,6 +4673,9 @@ Sponsors
 .margin-bottom-zero { 
 	margin-bottom: 0 !important; 
 }
+.padding-top-zero { 
+	padding-top: 0 !important; 
+}
 .black-headline { 
 	color: #000; 
 }

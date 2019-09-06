@@ -2579,7 +2579,7 @@ body:not(.twentyseventeen-front-page) .entry-header {
 
 /*bilety*/ /*Registration - Ticket form*/
 .tix-js form input[type="submit"] {
-  background: #d65027;
+  background: #F56E28;
   text-transform: uppercase;
   font-weight: normal; }
   .tix-js form input[type="submit"]:hover {

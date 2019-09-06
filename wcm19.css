@@ -4341,7 +4341,7 @@ Sponsors
   /*Cover Image*/
   .has-header-image .custom-header-media img {
       margin-top: -110px; }
-  .home .has-header-image .custom-header-media img {
+  .home.has-header-image .custom-header-media img {
       margin-top: -30px; }}
 
 @media screen and (min-width: 79em) {

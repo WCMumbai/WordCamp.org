@@ -2621,7 +2621,8 @@ body:not(.twentyseventeen-front-page) .entry-header {
   margin: 0rem; }
 
 .tix-js .tix-column-remaining {
-  display: none; }
+  text-align: center;
+  color: #F56E28; }
 
 .tix-js .tix_tickets_table.tix-attendee-form th {
   font-size: 1.625rem;

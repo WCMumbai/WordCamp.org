@@ -2883,13 +2883,11 @@ body:not(.twentyseventeen-front-page) .entry-header {
     position: relative;
     overflow: hidden;
     background: #0073AA; }
-    .jetpack_subscription_widget #subscribe-submit:after {
+    /*.jetpack_subscription_widget #subscribe-submit:after {
       display: block;
       content: '';
       -ms-transform: rotate(45deg);
-      /* IE 9 */
       -webkit-transform: rotate(45deg);
-      /* Chrome, Safari, Opera */
       transform: rotate(45deg);
       top: 100%;
       width: 1000px;
@@ -2902,7 +2900,7 @@ body:not(.twentyseventeen-front-page) .entry-header {
       -o-transition: all 0.21s ease-in-out;
       transition: all 0.21s ease-in-out; }
     .jetpack_subscription_widget #subscribe-submit:hover:after {
-      top: -850%; }
+      top: -850%; }*/
     .jetpack_subscription_widget #subscribe-submit input {
       padding: 0.7em 0;
       width: 100%;

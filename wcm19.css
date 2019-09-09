@@ -1576,6 +1576,11 @@ a:hover .nav-title {
   color: #000;
   text-decoration: underline; }
 
+/* Fixed for subscribe form - In response message link was not visible */
+.widget.widget_blog_subscription .error a {
+  color: #fff;
+}
+
 /* Fixes linked images */
 .entry-content a img,
 .widget a img {

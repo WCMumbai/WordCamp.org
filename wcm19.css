@@ -1341,14 +1341,12 @@ input[type="submit"].secondary:hover, input[type="submit"].secondary:focus {
     .contact-submit input[type="submit"]:hover,
     .form-submit input[type="submit"]:hover {
       background: none; }
-  .contact-submit:after,
+  /*.contact-submit:after,
   .form-submit:after {
     display: block;
     content: '';
     -ms-transform: rotate(45deg);
-    /* IE 9 */
     -webkit-transform: rotate(45deg);
-    /* Chrome, Safari, Opera */
     transform: rotate(45deg);
     top: 100%;
     width: 1000px;
@@ -1362,7 +1360,7 @@ input[type="submit"].secondary:hover, input[type="submit"].secondary:focus {
     transition: all 0.21s ease-in-out; }
   .contact-submit:hover:after,
   .form-submit:hover:after {
-    top: -850%; }
+    top: -850%; } */
 
 /*--------------------------------------------------------------
 7.0 Formatting

@@ -4685,3 +4685,121 @@ Sponsors
 	margin-bottom:20px!important;
 }
 
+ul.tix-attendee-list {
+	padding: 0 !important;
+}
+
+/* adding margin for the boxshadow */
+#tix-attendees .tix-columns-4 li {
+	width: -webkit-calc(25% - 30px);
+	width: -moz-calc(25% - 30px);
+	width: -o-calc(25% - 30px);
+	width: calc(25% - 30px);
+}
+
+#tix-attendees .tix-columns-3 li {
+	width: -webkit-calc(33.33% - 30px);
+	width: -moz-calc(33.33% - 30px);
+	width: -o-calc(33.33% - 30px);
+}
+
+#tix-attendees li {
+	margin: 15px;
+	height: 300px;
+	box-shadow: 0 4px 12px 0 rgba(0,0,0,0.15);
+	-webkit-box-shadow: 0 4px 12px 0 rgba(0,0,0,0.15);
+	-webkit-transition: all .3s ease-in-out;
+	-o-transition: all .3s ease-in-out;
+	transition: all .3s ease-in-out;
+}
+
+#tix-attendees .tix-columns-4 li .avatar {
+	float: left;
+	width: 100%;
+	height: auto;
+}
+
+#tix-attendees .tix-columns-3 li .avatar {
+	width: 100%;
+	height: auto;
+}
+
+#tix-attendees .tix-field {
+	margin-left: 0;
+	padding: 0 10px;
+}
+
+#tix-attendees .tix-attendee-name {
+	font-family: 'Oswald', sans-serif !important;
+	font-size: 1em;
+}
+
+#tix-attendees .tix-attendee-name .tix-first {
+	font-size: 1.5em;
+}
+
+#tix-attendees .tix-attendee-twitter,
+#tix-attendees .tix-attendee-url {
+	float: left;
+	font-size: 0;
+}
+
+#tix-attendees .tix-skill-sets {
+	font-size: .7em;
+}
+
+#tix-attendees .tix-attendee-twitter:before,
+#tix-attendees .tix-attendee-url:before {
+	font-family: 'FontAwesome';
+	font-size: 16px;
+}
+
+#tix-attendees .tix-attendee-twitter:before {
+	content: '\f099';
+}
+
+#tix-attendees .tix-attendee-url:before {
+	content: '\f0c1';
+}
+
+#tix-attendees .tix-skill-sets:contains(Developer) {
+	color: red;
+}
+
+@media screen and (max-width: 768px) {
+	#tix-attendees .tix-columns-4 li {
+		width: -webkit-calc(33% - 30px);
+		width: -moz-calc(33% - 30px);
+		width: -o-calc(33% - 30px);
+		width: calc(33% - 30px);
+	}
+	
+	#tix-attendees li {
+		height: 320px;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	#tix-attendees .tix-columns-4 li {
+		width: -webkit-calc(50% - 30px);
+		width: -moz-calc(50% - 30px);
+		width: -o-calc(50% - 30px);
+		width: calc(50% - 30px);
+	}
+	
+	#tix-attendees li {
+		height: 350px;
+	}
+}
+
+@media screen and (max-width: 520px) {
+	#tix-attendees li {
+		height: 310px;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	#tix-attendees li {
+		height: 280px;
+	}
+}

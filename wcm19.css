@@ -2748,7 +2748,7 @@ body:not(.twentyseventeen-front-page) .entry-header {
         text-align: right !important;
     }
 	
-   .tix-attendee-form td.tix-left, .tix-attendee-form td.tix-right, .tix-attendee-form input[type="text"], .tix-attendee-form input[type="url"], .tix-attendee-form input[type="email"] {
+   .tix-attendee-form td.tix-left, .tix-attendee-form td.tix-right, .tix-attendee-form input[type="text"], .tix-attendee-form input[type="url"], .tix-attendee-form input[type="email"], .tix-attendee-form textarea {
         width: 100%;
     }
 

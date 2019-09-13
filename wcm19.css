@@ -2722,29 +2722,29 @@ body:not(.twentyseventeen-front-page) .entry-header {
     }
 
     table.tix-order-summary>tbody>tr>td.tix-column-per-ticket {
-        width: 30% !important;
+        width: 40% !important;
     }
 
     table.tix-order-summary>tbody>tr>td.tix-column-quantity {
-        width: 20% !important;
+        width: 15% !important;
     }
 
     table.tix-order-summary>tbody>tr>td.tix-column-price {
-        width: 50% !important;
+        width: 45% !important;
     }
 
     table.tix-order-summary>tbody>tr.tix-row-total {
         width: 100%;
 
         color: #ffffff;
-        background: #d54e21;
+        background: #F56E28;
 
         font-weight: 800;
     }
 
     table.tix-order-summary>tbody>tr.tix-row-total>td {
-        width: 25% !important;
-
+        width: 100% !important;
+	margin-top: -15px;
         text-align: right !important;
     }
 }
@@ -4878,4 +4878,9 @@ ul.tix-attendee-list {
 	#tix-attendees li {
 		height: 280px;
 	}
+}
+
+#tix .tix-submit .tix-checkout-button {
+	padding-top: 1em;
+	padding-bottom: 1em;
 }

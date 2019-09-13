@@ -2747,6 +2747,10 @@ body:not(.twentyseventeen-front-page) .entry-header {
 	margin-top: -15px;
         text-align: right !important;
     }
+   .tix-attendee-form td.tix-left, .tix-attendee-form td.tix-right, .tix-attendee-form input[type="text"] {
+        width: 100%;
+    }
+
 }
 /*Mobile view for Registration/Ticket form*/
 

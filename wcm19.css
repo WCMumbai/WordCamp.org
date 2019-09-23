@@ -4800,6 +4800,10 @@ ul.tix-attendee-list {
 	height: auto;
 }
 
+#tix-attendees .tix-columns-4 li .avatar::after {
+	clear: both; 
+}
+
 #tix-attendees .tix-columns-3 li .avatar {
 	width: 100%;
 	height: auto;
@@ -4813,6 +4817,10 @@ ul.tix-attendee-list {
 #tix-attendees .tix-attendee-name {
 	font-family: 'Oswald', sans-serif !important;
 	font-size: 1em;
+}
+
+#tix-attendees .tix-attendee-name::before {
+	clear: both;
 }
 
 #tix-attendees .tix-attendee-name .tix-first {

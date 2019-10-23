@@ -4897,3 +4897,6 @@ ul.tix-attendee-list {
 	padding-top: 1em;
 	padding-bottom: 1em;
 }
+
+.img-round img { border-radius: 100px}
+

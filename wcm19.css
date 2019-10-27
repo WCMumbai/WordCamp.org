@@ -4766,6 +4766,10 @@ Sponsors
 	margin-bottom:20px!important;
 }
 
+.tix-column-price {
+	font-size: 0.85em;
+}
+
 ul.tix-attendee-list {
 	padding: 0 !important;
 }

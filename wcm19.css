@@ -4833,7 +4833,8 @@ ul.tix-attendee-list {
 	font-size: 0;
 }
 
-#tix-attendees .tix-skill-sets {
+#tix-attendees .tix-skill-sets,
+#tix-attendees .tix-i-will-contribute-to {
 	font-size: .7em;
 }
 

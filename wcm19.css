@@ -4905,3 +4905,6 @@ ul.tix-attendee-list {
 
 .img-round img { border-radius: 100px}
 
+ul.wordcamp-speakers {
+	padding: 0 !important;
+}

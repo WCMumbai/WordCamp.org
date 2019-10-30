@@ -4730,6 +4730,15 @@ Sponsors
   background-color: #b8c0c8;
   border-color: #a9b3bc;
 } */
+
+/* Comment Form submit button fix */
+#comments .comment-form .form-submit input[type="submit"] {
+  background-color: #0073AA;
+}
+#comments .comment-form .form-submit input[type="submit"]:hover {
+  background-color: #00A0D2;
+}
+
 /* Responsive
 ==================================== */
 @media all and (max-width: 768px) {

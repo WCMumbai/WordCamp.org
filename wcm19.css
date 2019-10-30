@@ -4944,3 +4944,6 @@ ul.wordcamp-speakers {
 #wcb_sponsors-4 {
     background-color: #fff;
 }
+#wcb_sponsors-4 > .widget-title {
+    color: #000;
+}

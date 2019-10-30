@@ -2060,6 +2060,13 @@ body:not(.title-tagline-hidden) .site-branding-text {
 .home .entry-header {
   display: none; }
 
+.home h2 a {
+  color: #0073AA !important;
+}
+.home h2 a:hover {
+  color: #0073AA !important;
+}
+
 /* Frontpage Components */
 .column-frontpage-main-info {
   height: 10.625rem;

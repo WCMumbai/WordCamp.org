@@ -4924,3 +4924,7 @@ ul.tix-attendee-list {
 ul.wordcamp-speakers {
 	padding: 0 !important;
 }
+.widget a img {
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}

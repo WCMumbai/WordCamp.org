@@ -4937,7 +4937,7 @@ ul.wordcamp-speakers {
     width: 20%;
     display: inline-block;
 }
-.sponsor-level.silver a {
+.sponsor-level.bronze a {
     width: 10%;
     display: inline-block;
 }
@@ -4946,4 +4946,23 @@ ul.wordcamp-speakers {
 }
 #wcb_sponsors-4 > .widget-title {
     color: #000;
+}
+
+@media screen and (max-width: 480px) {
+	.sponsor-level.gold a {
+   		width: 80%;
+    		display: block;
+    		margin: auto;
+	}
+	.sponsor-level.sliver a {
+   		width: 49%;
+    		display: block;
+    		margin: auto;
+	}
+	.sponsor-level.bronze a {
+   		width: 20%;
+    		display: block;
+    		margin: auto;
+	}
+	
 }

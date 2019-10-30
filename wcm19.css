@@ -4928,3 +4928,16 @@ ul.wordcamp-speakers {
     box-shadow: none;
     -webkit-box-shadow: none;
 }
+
+.sponsor-level.gold a {
+    width: 40%;
+    display: inline-block;
+}
+.sponsor-level.silver a {
+    width: 20%;
+    display: inline-block;
+}
+.sponsor-level.silver a {
+    width: 10%;
+    display: inline-block;
+}

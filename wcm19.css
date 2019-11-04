@@ -4969,3 +4969,6 @@ ul.wordcamp-speakers {
 .footer-widget-1 {
 	padding-top:0px;
 }
+.bronze > .sponsor-logo {
+    vertical-align: bottom;
+}

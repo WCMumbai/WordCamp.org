@@ -4930,15 +4930,15 @@ ul.wordcamp-speakers {
 }
 
 .sponsor-level.gold a {
-    width: 40%;
+    width: 48%;
     display: inline-block;
 }
 .sponsor-level.silver a {
-    width: 20%;
+    width: 28%;
     display: inline-block;
 }
 .sponsor-level.bronze a {
-    width: 10%;
+    width: 20%;
     display: inline-block;
 }
 #wcb_sponsors-4 {
